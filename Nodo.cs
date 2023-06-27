@@ -1,16 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ListasDoblementeLigadasCirculares
+﻿namespace ListasDoblementeLigadasCirculares
 {
     class Nodo
     {
         private int Dato;
         private Nodo Siguiente;
-        private Nodo 
+        private Nodo Atras;
 
         public int dato
         {
