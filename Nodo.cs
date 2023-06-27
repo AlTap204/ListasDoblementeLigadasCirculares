@@ -10,7 +10,7 @@ namespace ListasDoblementeLigadasCirculares
     {
         private int Dato;
         private Nodo Siguiente;
-        private Nodo Atras;
+        private Nodo 
 
         public int dato
         {
