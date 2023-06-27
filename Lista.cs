@@ -11,7 +11,7 @@
             fondo = null;
         }
 
-        public void Insertar()
+        public void insertarNodo()
         {
             Nodo nuevo = new Nodo();
             Console.WriteLine("Ingresar dato del nuevo nodo: ");
